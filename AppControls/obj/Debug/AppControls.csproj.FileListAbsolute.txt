@@ -1,0 +1,1697 @@
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.dll
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.pdb
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.dll
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.dll
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.dll
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.pdb
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.pdb
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.pdb
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csprojResolveAssemblyReference.cache
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrExpensesVoucher.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorPayments.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaim.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCity.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRecommandedServices.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSettings.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTerms.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrToggleColums.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendor.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemType.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrder.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouseServices.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csproj.GenerateResource.Cache
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.dll
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.pdb
+C:\Users\ESS\Desktop\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTest.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.dll
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.pdb
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.dll
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.dll
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.dll
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.dll
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.pdb
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.xml
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.pdb
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.pdb
+C:\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.pdb
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csprojResolveAssemblyReference.cache
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrExpensesVoucher.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCompany.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRacks.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaim.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrLabor.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrFees.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCity.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSettings.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrState.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTerms.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendor.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemType.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPackages.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csproj.GenerateResource.Cache
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.dll
+C:\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.xml
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr1.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCompany.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRacks.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate1.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaim.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrLabor.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrFees.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCity.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSettings.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrState.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTerms.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendor.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemType.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPackages.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.xml
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr1.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCompany.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRacks.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate1.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaim.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrLabor.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrFees.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCity.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSettings.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrState.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTerms.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendor.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemType.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPackages.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.xml
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr1.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCompany.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRacks.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate1.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaim.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrLabor.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrFees.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCity.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSettings.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrState.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTerms.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendor.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemType.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPackages.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.xml
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csprojResolveAssemblyReference.cache
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr1.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCompany.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRacks.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate1.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaim.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrLabor.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrFees.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCity.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSettings.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrState.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTerms.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendor.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemType.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPackages.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csproj.GenerateResource.Cache
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.xml
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csprojResolveAssemblyReference.cache
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr1.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCompany.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRacks.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate1.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaim.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrLabor.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrFees.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCity.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSettings.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrState.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTerms.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendor.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemType.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPackages.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csproj.GenerateResource.Cache
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.pdb
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.dll
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\AppControls.pdb
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.dll
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.dll
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.dll
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.dll
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.pdb
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\CButtonLib.xml
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\ControlLibrary.pdb
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\DBModule.pdb
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\bin\Debug\System32.pdb
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csprojResolveAssemblyReference.cache
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.frmCtr1.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCompany.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRacks.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate1.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClaim.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrLabor.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrFees.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCity.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrSettings.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrState.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTerms.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrVendor.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemType.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrPackages.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.csproj.GenerateResource.Cache
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.dll
+E:\Projects\AutoVaultESS-Developer Addition\AutoVaultESS\AutoVaultEss\AutoVaultEss\AppControls\obj\Debug\AppControls.pdb
+D:\Project\AutoVaultESS\AppControls\bin\Debug\AppControls.dll
+D:\Project\AutoVaultESS\AppControls\bin\Debug\AppControls.pdb
+D:\Project\AutoVaultESS\AppControls\bin\Debug\CButtonLib.dll
+D:\Project\AutoVaultESS\AppControls\bin\Debug\ControlLibrary.dll
+D:\Project\AutoVaultESS\AppControls\bin\Debug\DBModule.dll
+D:\Project\AutoVaultESS\AppControls\bin\Debug\System32.dll
+D:\Project\AutoVaultESS\AppControls\bin\Debug\CButtonLib.pdb
+D:\Project\AutoVaultESS\AppControls\bin\Debug\CButtonLib.xml
+D:\Project\AutoVaultESS\AppControls\bin\Debug\ControlLibrary.pdb
+D:\Project\AutoVaultESS\AppControls\bin\Debug\DBModule.pdb
+D:\Project\AutoVaultESS\AppControls\bin\Debug\System32.pdb
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrGeneralLedger.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.frmCtr.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.frmCtr1.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPackage.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPackagesList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPackageListForGrid.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrBrowseInvoice.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCompany.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrRacks.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrDailySaleList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate1.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrClaim.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrLabor.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemCatalog.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCity.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrInvoiceDetails.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.Controls.SalesControls.UserControlTest.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrSettings.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrState.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrTerms.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendor.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemType.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPackages.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.csproj.GenerateResource.Cache
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.dll
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.pdb
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.csprojAssemblyReference.cache
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.csproj.CoreCompileInputs.cache
+D:\Project\AutoVaultESS\AppControls\bin\Debug\FlashControlV71.dll
+D:\Project\AutoVaultESS\AppControls\bin\Debug\ShockwaveFlashObjects.dll
+D:\Project\AutoVaultESS\AppControls\bin\Debug\stdole.dll
+D:\Project\AutoVaultESS\AppControls\bin\Debug\DBModule.dll.config
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.csproj.CopyComplete
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorPayment.resources
+D:\Project\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorBillListing.resources
+D:\Project\AutoVault\AppControls\bin\Debug\AppControls.dll
+D:\Project\AutoVault\AppControls\bin\Debug\AppControls.pdb
+D:\Project\AutoVault\AppControls\bin\Debug\CButtonLib.dll
+D:\Project\AutoVault\AppControls\bin\Debug\ControlLibrary.dll
+D:\Project\AutoVault\AppControls\bin\Debug\DBModule.dll
+D:\Project\AutoVault\AppControls\bin\Debug\RptModule.dll
+D:\Project\AutoVault\AppControls\bin\Debug\System32.dll
+D:\Project\AutoVault\AppControls\bin\Debug\stdole.dll
+D:\Project\AutoVault\AppControls\bin\Debug\CButtonLib.pdb
+D:\Project\AutoVault\AppControls\bin\Debug\CButtonLib.xml
+D:\Project\AutoVault\AppControls\bin\Debug\ControlLibrary.pdb
+D:\Project\AutoVault\AppControls\bin\Debug\DBModule.pdb
+D:\Project\AutoVault\AppControls\bin\Debug\DBModule.dll.config
+D:\Project\AutoVault\AppControls\bin\Debug\RptModule.pdb
+D:\Project\AutoVault\AppControls\bin\Debug\RptModule.dll.config
+D:\Project\AutoVault\AppControls\bin\Debug\System32.pdb
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.csprojAssemblyReference.cache
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorPayment.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrGeneralLedger.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorPaymentHistory.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.DailySummary.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.frmCtr.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.frmCtr1.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPackage.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPackagesList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPackageListForGrid.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorBillListing.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrBrowseInvoice.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrItemList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCompany.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrRacks.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrDailySaleList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerAdjustment.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrSearchWorkOrders.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrderDetails.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerTransactions.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrClaim.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrLabor.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrItemCatalog.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCity.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrInvoiceDetails.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.Controls.SalesControls.UserControlTest.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrSettings.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrState.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrTerms.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrVendor.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrItemType.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrPackages.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.csproj.GenerateResource.cache
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.csproj.CoreCompileInputs.cache
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.csproj.CopyComplete
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.dll
+D:\Project\AutoVault\AppControls\obj\Debug\AppControls.pdb
+D:\Projects\AutoVault\AppControls\bin\Debug\AppControls.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\AppControls.pdb
+D:\Projects\AutoVault\AppControls\bin\Debug\CButtonLib.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\ControlLibrary.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\DBModule.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\RptModule.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\System32.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\stdole.dll
+D:\Projects\AutoVault\AppControls\bin\Debug\CButtonLib.pdb
+D:\Projects\AutoVault\AppControls\bin\Debug\CButtonLib.xml
+D:\Projects\AutoVault\AppControls\bin\Debug\ControlLibrary.pdb
+D:\Projects\AutoVault\AppControls\bin\Debug\DBModule.pdb
+D:\Projects\AutoVault\AppControls\bin\Debug\DBModule.dll.config
+D:\Projects\AutoVault\AppControls\bin\Debug\RptModule.pdb
+D:\Projects\AutoVault\AppControls\bin\Debug\RptModule.dll.config
+D:\Projects\AutoVault\AppControls\bin\Debug\System32.pdb
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.csprojAssemblyReference.cache
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorPayment.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrGeneralLedger.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorPaymentHistory.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.DailySummary.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.frmCtr.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.frmCtr1.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPackage.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPackagesList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPackageListForGrid.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorBillListing.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrBrowseInvoice.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrItemList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCompany.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrRacks.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrDailySaleList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerAdjustment.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrSearchWorkOrders.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrderDetails.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerTransactions.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrClaim.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrLabor.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrItemCatalog.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCity.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrInvoiceDetails.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.Controls.SalesControls.UserControlTest.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ViewInvoices.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrSettings.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrState.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrTerms.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrVendor.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrItemType.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrPackages.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.csproj.GenerateResource.cache
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.csproj.CoreCompileInputs.cache
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.csproj.CopyComplete
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.dll
+D:\Projects\AutoVault\AppControls\obj\Debug\AppControls.pdb
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\AppControls.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\AppControls.pdb
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CButtonLib.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\ControlLibrary.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.Shared.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\DBModule.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\QBSync.exe
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\RptModule.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\System32.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\ShockwaveFlashObjects.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\stdole.dll
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CButtonLib.pdb
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\CButtonLib.xml
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\ControlLibrary.pdb
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\DBModule.pdb
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\DBModule.dll.config
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\QBSync.pdb
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\QBSync.exe.config
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\RptModule.pdb
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\RptModule.dll.config
+E:\Projects\AutoVaultESS\AppControls\bin\Debug\System32.pdb
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.csprojAssemblyReference.cache
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrDailySummary.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrGenLedger.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorPayment.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorPaymentHistory.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.frmCtr.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.frmCtr1.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPackage.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPackagesList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrEmployeeList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPackageListForGrid.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorBillListing.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrBrowseInvoice.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCompany.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrRacks.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrDailySaleList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomerAdjustment.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrSearchWorkOrders.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWorkOrderDetails.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomerTransactions.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrClaim.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrLabor.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemCatalog.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCity.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrInvoiceDetails.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.Controls.SalesControls.UserControlTest.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ViewInvoices.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrSettings.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrState.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrTerms.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrVendor.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrItemType.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrPackages.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.csproj.GenerateResource.cache
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.csproj.CoreCompileInputs.cache
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.csproj.CopyComplete
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.dll
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.pdb
+E:\Projects\AutoVaultESS\AppControls\obj\Debug\AppControls.Notifications.resources
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\AppControls.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\AppControls.pdb
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CButtonLib.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\ControlLibrary.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.Shared.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\DBModule.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\QBSync.exe
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\RptModule.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\System32.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\ShockwaveFlashObjects.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\stdole.dll
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CButtonLib.pdb
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\CButtonLib.xml
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\ControlLibrary.pdb
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\DBModule.pdb
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\DBModule.dll.config
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\QBSync.pdb
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\QBSync.exe.config
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\RptModule.pdb
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\RptModule.dll.config
+E:\Projects\cSouth Mountain Tires\AppControls\bin\Debug\System32.pdb
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.csprojAssemblyReference.cache
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrDailySummary.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrGenLedger.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVendorPayment.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVendorPaymentHistory.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.frmCtr.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.frmCtr1.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPackage.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPackagesList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrEmployeeList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPackageListForGrid.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVendorBillListing.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.Notifications.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrBrowseInvoice.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrItemList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCompany.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrRacks.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrDailySaleList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCustomerAdjustment.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrSearchWorkOrders.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrWorkOrderDetails.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCustomerTransactions.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrClaim.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrLabor.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrItemCatalog.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCity.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrInvoiceDetails.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.Controls.SalesControls.UserControlTest.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ViewInvoices.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrSettings.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrState.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrTerms.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrVendor.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrItemType.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrPackages.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.csproj.GenerateResource.cache
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.csproj.CoreCompileInputs.cache
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.csproj.CopyComplete
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.dll
+E:\Projects\cSouth Mountain Tires\AppControls\obj\Debug\AppControls.pdb
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\AppControls.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\AppControls.pdb
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CButtonLib.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\ControlLibrary.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\DBModule.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\QBSync.exe
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\RptModule.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\System32.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\ShockwaveFlashObjects.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\stdole.dll
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CButtonLib.pdb
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\CButtonLib.xml
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\ControlLibrary.pdb
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\DBModule.pdb
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\DBModule.dll.config
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\QBSync.pdb
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\QBSync.exe.config
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\RptModule.pdb
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\RptModule.dll.config
+D:\Project\EssDesktopRetailer\AppControls\bin\Debug\System32.pdb
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.csprojAssemblyReference.cache
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrDailySummary.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrGenLedger.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorPayment.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorPaymentHistory.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.frmCtr.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.frmCtr1.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPackage.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPackagesList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrEmployeeList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPackageListForGrid.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorBillListing.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.Notifications.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrBrowseInvoice.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCompany.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrRacks.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrDailySaleList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerAdjustment.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSearchWorkOrders.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrderDetails.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerTransactions.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrClaim.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrLabor.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemCatalog.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCity.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrInvoiceDetails.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.Controls.SalesControls.UserControlTest.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ViewInvoices.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSettings.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrState.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrTerms.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendor.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemType.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPackages.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.csproj.GenerateResource.cache
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.csproj.CoreCompileInputs.cache
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.csproj.CopyComplete
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.dll
+D:\Project\EssDesktopRetailer\AppControls\obj\Debug\AppControls.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\AppControls.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\AppControls.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CButtonLib.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\ControlLibrary.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\DBModule.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\QBSync.exe
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\RptModule.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\System32.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\stdole.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CButtonLib.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\CButtonLib.xml
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\ControlLibrary.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\DBModule.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\DBModule.dll.config
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\QBSync.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\QBSync.exe.config
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\RptModule.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\RptModule.dll.config
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\bin\Debug\System32.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCashVoucher.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrBankVoucher.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrDailySummary.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrGenLedger.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorPayment.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrGeneralJournalVoucher.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorPaymentHistory.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.frmCtr.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.frmCtr1.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemDefination.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPackage.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPackagesList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrAccountList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrEmployeeList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPackageListForGrid.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorBillListing.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrderListing.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrProfitBreakDown.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrOnOrderList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrAlternateInventory.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrAdjustmentInventory.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrChartofAccounts.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.Notifications.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrBrowseInvoice.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrClaimCredit.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerPayment.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerReceipt.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCheckBook.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWarrantyClaimAndCoresList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemPriceChange.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPhysicalInventorySession.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPreventiveMaintenancSetup.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorBillDetail.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorPaymentList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendorBillList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPurchaseOrderVendorBill.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPurchaseOrderAddItem.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCompany.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrRacks.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWarehouseStore.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWarrantyClaim.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrBookingOrder.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrDailySaleList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerAdjustment.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSearchWorkOrders.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrderDetails.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerTransactions.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrderNegate.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrder.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrBankAccount.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrClaim.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomer.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrEmployee.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPurchaseOrderList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWorkOrderList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrLabor.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemGroupItems.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemCatalog.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrZipCode.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCity.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrInvoiceDetails.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.Controls.SalesControls.UserControlTest.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ViewInvoices.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrChangePassword.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrClockInMechanic.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCreditCards.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVehicleList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrCustomerList.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrDBBackUp.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrInventoryCount.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrInventoryTransfer.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrNegateWindow.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVehicleInspectionItems.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVehicleInspection.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrReferredBy.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrMechanicTrack.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrOilViscosities.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPriceLevels.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrRequestTransfer.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSalesCategories.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSaleTaxAuthorities.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSaleTaxRates.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrScheduler.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrSettings.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrShippingMethods.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrState.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrTerms.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrTireCalculator.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrUtilities.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVehicle.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrVendor.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrWarehouse.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemGroup.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrServicesForWO.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemListForGrid.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrManufacturers.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrItemType.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrPackages.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.ctrToggleWOColumns.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.Properties.Resources.resources
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.csproj.GenerateResource.cache
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.csproj.CopyComplete
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.dll
+C:\Users\user\Desktop\EssDesktopRetailer\AppControls\obj\Debug\AppControls.pdb

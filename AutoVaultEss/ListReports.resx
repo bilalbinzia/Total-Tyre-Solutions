@@ -1,0 +1,1785 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="pnlAccountReports.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="taButton5.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="taButton5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="taButton5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 18</value>
+  </data>
+  <data name="taButton5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="taButton5.TabIndex" type="System.Int32, mscorlib">
+    <value>11679</value>
+  </data>
+  <data name="taButton5.Text" xml:space="preserve">
+    <value>Payments Report</value>
+  </data>
+  <data name="&gt;&gt;taButton5.Name" xml:space="preserve">
+    <value>taButton5</value>
+  </data>
+  <data name="&gt;&gt;taButton5.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;taButton5.Parent" xml:space="preserve">
+    <value>pnlAccountReports</value>
+  </data>
+  <data name="&gt;&gt;taButton5.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="taButton6.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="taButton6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="taButton6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 59</value>
+  </data>
+  <data name="taButton6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="taButton6.TabIndex" type="System.Int32, mscorlib">
+    <value>11678</value>
+  </data>
+  <data name="taButton6.Text" xml:space="preserve">
+    <value>ReceivableReport</value>
+  </data>
+  <data name="&gt;&gt;taButton6.Name" xml:space="preserve">
+    <value>taButton6</value>
+  </data>
+  <data name="&gt;&gt;taButton6.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;taButton6.Parent" xml:space="preserve">
+    <value>pnlAccountReports</value>
+  </data>
+  <data name="&gt;&gt;taButton6.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="taButton7.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="taButton7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="taButton7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 59</value>
+  </data>
+  <data name="taButton7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="taButton7.TabIndex" type="System.Int32, mscorlib">
+    <value>11675</value>
+  </data>
+  <data name="taButton7.Text" xml:space="preserve">
+    <value>Bank Summary</value>
+  </data>
+  <data name="&gt;&gt;taButton7.Name" xml:space="preserve">
+    <value>taButton7</value>
+  </data>
+  <data name="&gt;&gt;taButton7.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;taButton7.Parent" xml:space="preserve">
+    <value>pnlAccountReports</value>
+  </data>
+  <data name="&gt;&gt;taButton7.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="taButton8.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="taButton8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="taButton8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 102</value>
+  </data>
+  <data name="taButton8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="taButton8.TabIndex" type="System.Int32, mscorlib">
+    <value>11674</value>
+  </data>
+  <data name="taButton8.Text" xml:space="preserve">
+    <value>Journal Reports</value>
+  </data>
+  <data name="&gt;&gt;taButton8.Name" xml:space="preserve">
+    <value>taButton8</value>
+  </data>
+  <data name="&gt;&gt;taButton8.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;taButton8.Parent" xml:space="preserve">
+    <value>pnlAccountReports</value>
+  </data>
+  <data name="&gt;&gt;taButton8.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="taButton9.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="taButton9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="taButton9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 18</value>
+  </data>
+  <data name="taButton9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="taButton9.TabIndex" type="System.Int32, mscorlib">
+    <value>11673</value>
+  </data>
+  <data name="taButton9.Text" xml:space="preserve">
+    <value>Bank Deposit Analysis</value>
+  </data>
+  <data name="&gt;&gt;taButton9.Name" xml:space="preserve">
+    <value>taButton9</value>
+  </data>
+  <data name="&gt;&gt;taButton9.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;taButton9.Parent" xml:space="preserve">
+    <value>pnlAccountReports</value>
+  </data>
+  <data name="&gt;&gt;taButton9.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pnlAccountReports.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 71</value>
+  </data>
+  <data name="pnlAccountReports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>428, 366</value>
+  </data>
+  <data name="pnlAccountReports.TabIndex" type="System.Int32, mscorlib">
+    <value>11680</value>
+  </data>
+  <data name="&gt;&gt;pnlAccountReports.Name" xml:space="preserve">
+    <value>pnlAccountReports</value>
+  </data>
+  <data name="&gt;&gt;pnlAccountReports.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlAccountReports.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlAccountReports.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <metadata name="pnlInventoryReports.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="btnItemList.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnItemList.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnItemList.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 275</value>
+  </data>
+  <data name="btnItemList.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnItemList.TabIndex" type="System.Int32, mscorlib">
+    <value>11695</value>
+  </data>
+  <data name="btnItemList.Text" xml:space="preserve">
+    <value>Item List Report</value>
+  </data>
+  <data name="&gt;&gt;btnItemList.Name" xml:space="preserve">
+    <value>btnItemList</value>
+  </data>
+  <data name="&gt;&gt;btnItemList.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnItemList.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnItemList.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="btnItemGroup.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnItemGroup.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnItemGroup.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 318</value>
+  </data>
+  <data name="btnItemGroup.Size" type="System.Drawing.Size, System.Drawing">
+    <value>358, 26</value>
+  </data>
+  <data name="btnItemGroup.TabIndex" type="System.Int32, mscorlib">
+    <value>11694</value>
+  </data>
+  <data name="btnItemGroup.Text" xml:space="preserve">
+    <value>Item Group Summary</value>
+  </data>
+  <data name="&gt;&gt;btnItemGroup.Name" xml:space="preserve">
+    <value>btnItemGroup</value>
+  </data>
+  <data name="&gt;&gt;btnItemGroup.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnItemGroup.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnItemGroup.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="btnBinReport.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnBinReport.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnBinReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 275</value>
+  </data>
+  <data name="btnBinReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnBinReport.TabIndex" type="System.Int32, mscorlib">
+    <value>11693</value>
+  </data>
+  <data name="btnBinReport.Text" xml:space="preserve">
+    <value>Bin Report</value>
+  </data>
+  <data name="&gt;&gt;btnBinReport.Name" xml:space="preserve">
+    <value>btnBinReport</value>
+  </data>
+  <data name="&gt;&gt;btnBinReport.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnBinReport.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnBinReport.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="btnInventoryModel.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnInventoryModel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnInventoryModel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 104</value>
+  </data>
+  <data name="btnInventoryModel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnInventoryModel.TabIndex" type="System.Int32, mscorlib">
+    <value>11691</value>
+  </data>
+  <data name="btnInventoryModel.Text" xml:space="preserve">
+    <value>Inventory Model Report</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryModel.Name" xml:space="preserve">
+    <value>btnInventoryModel</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryModel.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryModel.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryModel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="btnBarcodeRep.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnBarcodeRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnBarcodeRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 189</value>
+  </data>
+  <data name="btnBarcodeRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnBarcodeRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11690</value>
+  </data>
+  <data name="btnBarcodeRep.Text" xml:space="preserve">
+    <value>Barcode Report</value>
+  </data>
+  <data name="&gt;&gt;btnBarcodeRep.Name" xml:space="preserve">
+    <value>btnBarcodeRep</value>
+  </data>
+  <data name="&gt;&gt;btnBarcodeRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnBarcodeRep.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnBarcodeRep.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="btnBinLabel.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnBinLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnBinLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 232</value>
+  </data>
+  <data name="btnBinLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnBinLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>11689</value>
+  </data>
+  <data name="btnBinLabel.Text" xml:space="preserve">
+    <value>Bin Label Report</value>
+  </data>
+  <data name="&gt;&gt;btnBinLabel.Name" xml:space="preserve">
+    <value>btnBinLabel</value>
+  </data>
+  <data name="&gt;&gt;btnBinLabel.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnBinLabel.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnBinLabel.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="btnSpecialPrice.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnSpecialPrice.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnSpecialPrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 148</value>
+  </data>
+  <data name="btnSpecialPrice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnSpecialPrice.TabIndex" type="System.Int32, mscorlib">
+    <value>11688</value>
+  </data>
+  <data name="btnSpecialPrice.Text" xml:space="preserve">
+    <value>Special Price Report</value>
+  </data>
+  <data name="&gt;&gt;btnSpecialPrice.Name" xml:space="preserve">
+    <value>btnSpecialPrice</value>
+  </data>
+  <data name="&gt;&gt;btnSpecialPrice.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnSpecialPrice.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnSpecialPrice.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="btnReorder.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnReorder.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnReorder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 189</value>
+  </data>
+  <data name="btnReorder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnReorder.TabIndex" type="System.Int32, mscorlib">
+    <value>11687</value>
+  </data>
+  <data name="btnReorder.Text" xml:space="preserve">
+    <value>Reorder Report</value>
+  </data>
+  <data name="&gt;&gt;btnReorder.Name" xml:space="preserve">
+    <value>btnReorder</value>
+  </data>
+  <data name="&gt;&gt;btnReorder.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnReorder.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnReorder.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <metadata name="btnBinCountSheet.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnBinCountSheet.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnBinCountSheet.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 232</value>
+  </data>
+  <data name="btnBinCountSheet.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnBinCountSheet.TabIndex" type="System.Int32, mscorlib">
+    <value>11686</value>
+  </data>
+  <data name="btnBinCountSheet.Text" xml:space="preserve">
+    <value>Bin Count Sheet Report</value>
+  </data>
+  <data name="&gt;&gt;btnBinCountSheet.Name" xml:space="preserve">
+    <value>btnBinCountSheet</value>
+  </data>
+  <data name="&gt;&gt;btnBinCountSheet.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnBinCountSheet.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnBinCountSheet.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="btnPriceList.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnPriceList.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnPriceList.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 148</value>
+  </data>
+  <data name="btnPriceList.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnPriceList.TabIndex" type="System.Int32, mscorlib">
+    <value>11685</value>
+  </data>
+  <data name="btnPriceList.Text" xml:space="preserve">
+    <value>Price List Report</value>
+  </data>
+  <data name="&gt;&gt;btnPriceList.Name" xml:space="preserve">
+    <value>btnPriceList</value>
+  </data>
+  <data name="&gt;&gt;btnPriceList.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnPriceList.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnPriceList.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="btnInventoryValue.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnInventoryValue.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnInventoryValue.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 20</value>
+  </data>
+  <data name="btnInventoryValue.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnInventoryValue.TabIndex" type="System.Int32, mscorlib">
+    <value>11684</value>
+  </data>
+  <data name="btnInventoryValue.Text" xml:space="preserve">
+    <value>Inventory Value Report</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryValue.Name" xml:space="preserve">
+    <value>btnInventoryValue</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryValue.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryValue.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryValue.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <metadata name="btnInventoryVariance.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnInventoryVariance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnInventoryVariance.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 61</value>
+  </data>
+  <data name="btnInventoryVariance.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnInventoryVariance.TabIndex" type="System.Int32, mscorlib">
+    <value>11683</value>
+  </data>
+  <data name="btnInventoryVariance.Text" xml:space="preserve">
+    <value>Inventory Variance Report</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryVariance.Name" xml:space="preserve">
+    <value>btnInventoryVariance</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryVariance.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryVariance.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryVariance.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <metadata name="btnInventoryPhysical.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnInventoryPhysical.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnInventoryPhysical.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 61</value>
+  </data>
+  <data name="btnInventoryPhysical.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnInventoryPhysical.TabIndex" type="System.Int32, mscorlib">
+    <value>11682</value>
+  </data>
+  <data name="btnInventoryPhysical.Text" xml:space="preserve">
+    <value>Inventory Physical Report</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryPhysical.Name" xml:space="preserve">
+    <value>btnInventoryPhysical</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryPhysical.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryPhysical.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryPhysical.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <metadata name="btnInventoryExcess.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnInventoryExcess.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnInventoryExcess.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 104</value>
+  </data>
+  <data name="btnInventoryExcess.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnInventoryExcess.TabIndex" type="System.Int32, mscorlib">
+    <value>11681</value>
+  </data>
+  <data name="btnInventoryExcess.Text" xml:space="preserve">
+    <value>Inventory Excess Report</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryExcess.Name" xml:space="preserve">
+    <value>btnInventoryExcess</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryExcess.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryExcess.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryExcess.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <metadata name="btnInventoryStock.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnInventoryStock.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnInventoryStock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 20</value>
+  </data>
+  <data name="btnInventoryStock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnInventoryStock.TabIndex" type="System.Int32, mscorlib">
+    <value>11680</value>
+  </data>
+  <data name="btnInventoryStock.Text" xml:space="preserve">
+    <value>Inventory Stock Report</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryStock.Name" xml:space="preserve">
+    <value>btnInventoryStock</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryStock.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryStock.Parent" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryStock.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="pnlInventoryReports.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 72</value>
+  </data>
+  <data name="pnlInventoryReports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>428, 366</value>
+  </data>
+  <data name="pnlInventoryReports.TabIndex" type="System.Int32, mscorlib">
+    <value>11680</value>
+  </data>
+  <data name="&gt;&gt;pnlInventoryReports.Name" xml:space="preserve">
+    <value>pnlInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;pnlInventoryReports.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlInventoryReports.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlInventoryReports.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="pnlSaleReports.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>117, 8</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 19</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Customer Reports</value>
+  </data>
+  <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>gradientPanel4</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="gradientPanel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 119</value>
+  </data>
+  <data name="gradientPanel4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="gradientPanel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>360, 38</value>
+  </data>
+  <data name="gradientPanel4.TabIndex" type="System.Int32, mscorlib">
+    <value>11701</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel4.Name" xml:space="preserve">
+    <value>gradientPanel4</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel4.Type" xml:space="preserve">
+    <value>ControlLibrary.GradientPanel, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel4.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>139, 8</value>
+  </data>
+  <data name="label3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 19</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Sale Reports</value>
+  </data>
+  <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>gradientPanel3</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="gradientPanel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 23</value>
+  </data>
+  <data name="gradientPanel3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="gradientPanel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>362, 38</value>
+  </data>
+  <data name="gradientPanel3.TabIndex" type="System.Int32, mscorlib">
+    <value>11700</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel3.Name" xml:space="preserve">
+    <value>gradientPanel3</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel3.Type" xml:space="preserve">
+    <value>ControlLibrary.GradientPanel, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel3.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnCustomerList.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnCustomerList.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 257</value>
+  </data>
+  <data name="btnCustomerList.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnCustomerList.TabIndex" type="System.Int32, mscorlib">
+    <value>11699</value>
+  </data>
+  <data name="btnCustomerList.Text" xml:space="preserve">
+    <value>Customer List</value>
+  </data>
+  <data name="&gt;&gt;btnCustomerList.Name" xml:space="preserve">
+    <value>btnCustomerList</value>
+  </data>
+  <data name="&gt;&gt;btnCustomerList.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnCustomerList.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;btnCustomerList.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnInvoiceProfitDetails.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnInvoiceProfitDetails.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 257</value>
+  </data>
+  <data name="btnInvoiceProfitDetails.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnInvoiceProfitDetails.TabIndex" type="System.Int32, mscorlib">
+    <value>11698</value>
+  </data>
+  <data name="btnInvoiceProfitDetails.Text" xml:space="preserve">
+    <value>Invoice Profit Detail</value>
+  </data>
+  <data name="&gt;&gt;btnInvoiceProfitDetails.Name" xml:space="preserve">
+    <value>btnInvoiceProfitDetails</value>
+  </data>
+  <data name="&gt;&gt;btnInvoiceProfitDetails.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnInvoiceProfitDetails.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;btnInvoiceProfitDetails.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnTransSummaryDetails.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnTransSummaryDetails.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 213</value>
+  </data>
+  <data name="btnTransSummaryDetails.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnTransSummaryDetails.TabIndex" type="System.Int32, mscorlib">
+    <value>11684</value>
+  </data>
+  <data name="btnTransSummaryDetails.Text" xml:space="preserve">
+    <value>Trans. with Details</value>
+  </data>
+  <data name="&gt;&gt;btnTransSummaryDetails.Name" xml:space="preserve">
+    <value>btnTransSummaryDetails</value>
+  </data>
+  <data name="&gt;&gt;btnTransSummaryDetails.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnTransSummaryDetails.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;btnTransSummaryDetails.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnTransactionWithDate.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnTransactionWithDate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 213</value>
+  </data>
+  <data name="btnTransactionWithDate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnTransactionWithDate.TabIndex" type="System.Int32, mscorlib">
+    <value>11683</value>
+  </data>
+  <data name="btnTransactionWithDate.Text" xml:space="preserve">
+    <value>Transaction By Date</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionWithDate.Name" xml:space="preserve">
+    <value>btnTransactionWithDate</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionWithDate.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionWithDate.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionWithDate.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnTransactionSummary.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnTransactionSummary.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 173</value>
+  </data>
+  <data name="btnTransactionSummary.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnTransactionSummary.TabIndex" type="System.Int32, mscorlib">
+    <value>11682</value>
+  </data>
+  <data name="btnTransactionSummary.Text" xml:space="preserve">
+    <value>Trans. Summary</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionSummary.Name" xml:space="preserve">
+    <value>btnTransactionSummary</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionSummary.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionSummary.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionSummary.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnCusAgingRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnCusAgingRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 173</value>
+  </data>
+  <data name="btnCusAgingRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnCusAgingRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11681</value>
+  </data>
+  <data name="btnCusAgingRep.Text" xml:space="preserve">
+    <value>Aging Report</value>
+  </data>
+  <data name="&gt;&gt;btnCusAgingRep.Name" xml:space="preserve">
+    <value>btnCusAgingRep</value>
+  </data>
+  <data name="&gt;&gt;btnCusAgingRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnCusAgingRep.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;btnCusAgingRep.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="btnVehicleListRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnVehicleListRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 78</value>
+  </data>
+  <data name="btnVehicleListRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnVehicleListRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11678</value>
+  </data>
+  <data name="btnVehicleListRep.Text" xml:space="preserve">
+    <value>Vehicle List Report</value>
+  </data>
+  <data name="&gt;&gt;btnVehicleListRep.Name" xml:space="preserve">
+    <value>btnVehicleListRep</value>
+  </data>
+  <data name="&gt;&gt;btnVehicleListRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnVehicleListRep.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;btnVehicleListRep.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="btnInventorySaleRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnInventorySaleRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 78</value>
+  </data>
+  <data name="btnInventorySaleRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnInventorySaleRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11677</value>
+  </data>
+  <data name="btnInventorySaleRep.Text" xml:space="preserve">
+    <value>Inventory Sale Report</value>
+  </data>
+  <data name="&gt;&gt;btnInventorySaleRep.Name" xml:space="preserve">
+    <value>btnInventorySaleRep</value>
+  </data>
+  <data name="&gt;&gt;btnInventorySaleRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnInventorySaleRep.Parent" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;btnInventorySaleRep.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="pnlSaleReports.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 71</value>
+  </data>
+  <data name="pnlSaleReports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>428, 366</value>
+  </data>
+  <data name="pnlSaleReports.TabIndex" type="System.Int32, mscorlib">
+    <value>11680</value>
+  </data>
+  <data name="&gt;&gt;pnlSaleReports.Name" xml:space="preserve">
+    <value>pnlSaleReports</value>
+  </data>
+  <data name="&gt;&gt;pnlSaleReports.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlSaleReports.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlSaleReports.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="pnlPurchaseReports.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 8</value>
+  </data>
+  <data name="label2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 19</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Purchase Reports</value>
+  </data>
+  <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>gradientPanel2</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="gradientPanel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 21</value>
+  </data>
+  <data name="gradientPanel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="gradientPanel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>362, 38</value>
+  </data>
+  <data name="gradientPanel2.TabIndex" type="System.Int32, mscorlib">
+    <value>11702</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel2.Name" xml:space="preserve">
+    <value>gradientPanel2</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel2.Type" xml:space="preserve">
+    <value>ControlLibrary.GradientPanel, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel2.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>127, 8</value>
+  </data>
+  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 19</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Vender Reports</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>gradientPanel1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="gradientPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 163</value>
+  </data>
+  <data name="gradientPanel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="gradientPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>362, 38</value>
+  </data>
+  <data name="gradientPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>11701</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel1.Name" xml:space="preserve">
+    <value>gradientPanel1</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel1.Type" xml:space="preserve">
+    <value>ControlLibrary.GradientPanel, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel1.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;gradientPanel1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="btnVendorListRep.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnVendorListRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnVendorListRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 258</value>
+  </data>
+  <data name="btnVendorListRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnVendorListRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11694</value>
+  </data>
+  <data name="btnVendorListRep.Text" xml:space="preserve">
+    <value>Vendor List</value>
+  </data>
+  <data name="&gt;&gt;btnVendorListRep.Name" xml:space="preserve">
+    <value>btnVendorListRep</value>
+  </data>
+  <data name="&gt;&gt;btnVendorListRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnVendorListRep.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;btnVendorListRep.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="btnVendorTransactionRep.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnVendorTransactionRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnVendorTransactionRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 258</value>
+  </data>
+  <data name="btnVendorTransactionRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnVendorTransactionRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11693</value>
+  </data>
+  <data name="btnVendorTransactionRep.Text" xml:space="preserve">
+    <value>Vendor Transaction</value>
+  </data>
+  <data name="&gt;&gt;btnVendorTransactionRep.Name" xml:space="preserve">
+    <value>btnVendorTransactionRep</value>
+  </data>
+  <data name="&gt;&gt;btnVendorTransactionRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnVendorTransactionRep.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;btnVendorTransactionRep.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="btnVendorSummaryRep.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnVendorSummaryRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnVendorSummaryRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 218</value>
+  </data>
+  <data name="btnVendorSummaryRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnVendorSummaryRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11692</value>
+  </data>
+  <data name="btnVendorSummaryRep.Text" xml:space="preserve">
+    <value>Vendor Summary</value>
+  </data>
+  <data name="&gt;&gt;btnVendorSummaryRep.Name" xml:space="preserve">
+    <value>btnVendorSummaryRep</value>
+  </data>
+  <data name="&gt;&gt;btnVendorSummaryRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnVendorSummaryRep.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;btnVendorSummaryRep.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="btnVendorPaidOutRep.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnVendorPaidOutRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnVendorPaidOutRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 218</value>
+  </data>
+  <data name="btnVendorPaidOutRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnVendorPaidOutRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11691</value>
+  </data>
+  <data name="btnVendorPaidOutRep.Text" xml:space="preserve">
+    <value>Vendor Paidout</value>
+  </data>
+  <data name="&gt;&gt;btnVendorPaidOutRep.Name" xml:space="preserve">
+    <value>btnVendorPaidOutRep</value>
+  </data>
+  <data name="&gt;&gt;btnVendorPaidOutRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnVendorPaidOutRep.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;btnVendorPaidOutRep.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="btnPOHistoryRep.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnPOHistoryRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnPOHistoryRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 119</value>
+  </data>
+  <data name="btnPOHistoryRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnPOHistoryRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11690</value>
+  </data>
+  <data name="btnPOHistoryRep.Text" xml:space="preserve">
+    <value>P/O History Report</value>
+  </data>
+  <data name="&gt;&gt;btnPOHistoryRep.Name" xml:space="preserve">
+    <value>btnPOHistoryRep</value>
+  </data>
+  <data name="&gt;&gt;btnPOHistoryRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnPOHistoryRep.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;btnPOHistoryRep.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="btnPOItemWiseRep.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnPOItemWiseRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnPOItemWiseRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 119</value>
+  </data>
+  <data name="btnPOItemWiseRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnPOItemWiseRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11689</value>
+  </data>
+  <data name="btnPOItemWiseRep.Text" xml:space="preserve">
+    <value>P/O Items Wise Report</value>
+  </data>
+  <data name="&gt;&gt;btnPOItemWiseRep.Name" xml:space="preserve">
+    <value>btnPOItemWiseRep</value>
+  </data>
+  <data name="&gt;&gt;btnPOItemWiseRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnPOItemWiseRep.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;btnPOItemWiseRep.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <metadata name="btnPOVendorWiseRep.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnPOVendorWiseRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnPOVendorWiseRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 79</value>
+  </data>
+  <data name="btnPOVendorWiseRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnPOVendorWiseRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11688</value>
+  </data>
+  <data name="btnPOVendorWiseRep.Text" xml:space="preserve">
+    <value>P/O Vendor Wise Report</value>
+  </data>
+  <data name="&gt;&gt;btnPOVendorWiseRep.Name" xml:space="preserve">
+    <value>btnPOVendorWiseRep</value>
+  </data>
+  <data name="&gt;&gt;btnPOVendorWiseRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnPOVendorWiseRep.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;btnPOVendorWiseRep.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="btnPOBillwiseRep.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnPOBillwiseRep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnPOBillwiseRep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 79</value>
+  </data>
+  <data name="btnPOBillwiseRep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="btnPOBillwiseRep.TabIndex" type="System.Int32, mscorlib">
+    <value>11687</value>
+  </data>
+  <data name="btnPOBillwiseRep.Text" xml:space="preserve">
+    <value>P/O Bill Wise Report</value>
+  </data>
+  <data name="&gt;&gt;btnPOBillwiseRep.Name" xml:space="preserve">
+    <value>btnPOBillwiseRep</value>
+  </data>
+  <data name="&gt;&gt;btnPOBillwiseRep.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnPOBillwiseRep.Parent" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;btnPOBillwiseRep.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="pnlPurchaseReports.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 71</value>
+  </data>
+  <data name="pnlPurchaseReports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>428, 366</value>
+  </data>
+  <data name="pnlPurchaseReports.TabIndex" type="System.Int32, mscorlib">
+    <value>11685</value>
+  </data>
+  <data name="&gt;&gt;pnlPurchaseReports.Name" xml:space="preserve">
+    <value>pnlPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;pnlPurchaseReports.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlPurchaseReports.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlPurchaseReports.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="btnExit.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnExit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt</value>
+  </data>
+  <data name="btnExit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 397</value>
+  </data>
+  <data name="btnExit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 40</value>
+  </data>
+  <data name="btnExit.TabIndex" type="System.Int32, mscorlib">
+    <value>11679</value>
+  </data>
+  <data name="btnExit.Text" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Name" xml:space="preserve">
+    <value>btnExit</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnExit.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="btnInventoryReports.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnInventoryReports.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnInventoryReports.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 178</value>
+  </data>
+  <data name="btnInventoryReports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 37</value>
+  </data>
+  <data name="btnInventoryReports.TabIndex" type="System.Int32, mscorlib">
+    <value>11678</value>
+  </data>
+  <data name="btnInventoryReports.Text" xml:space="preserve">
+    <value>Inventory Reports</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryReports.Name" xml:space="preserve">
+    <value>btnInventoryReports</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryReports.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryReports.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnInventoryReports.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="btnAccountReports.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnAccountReports.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnAccountReports.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 233</value>
+  </data>
+  <data name="btnAccountReports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 37</value>
+  </data>
+  <data name="btnAccountReports.TabIndex" type="System.Int32, mscorlib">
+    <value>11677</value>
+  </data>
+  <data name="btnAccountReports.Text" xml:space="preserve">
+    <value>Account Reports</value>
+  </data>
+  <data name="&gt;&gt;btnAccountReports.Name" xml:space="preserve">
+    <value>btnAccountReports</value>
+  </data>
+  <data name="&gt;&gt;btnAccountReports.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnAccountReports.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnAccountReports.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="btnPurchaseReports.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnPurchaseReports.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnPurchaseReports.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 124</value>
+  </data>
+  <data name="btnPurchaseReports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 37</value>
+  </data>
+  <data name="btnPurchaseReports.TabIndex" type="System.Int32, mscorlib">
+    <value>11676</value>
+  </data>
+  <data name="btnPurchaseReports.Text" xml:space="preserve">
+    <value>Purchase Reports</value>
+  </data>
+  <data name="&gt;&gt;btnPurchaseReports.Name" xml:space="preserve">
+    <value>btnPurchaseReports</value>
+  </data>
+  <data name="&gt;&gt;btnPurchaseReports.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnPurchaseReports.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnPurchaseReports.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="btnSaleReports.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnSaleReports.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="btnSaleReports.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 71</value>
+  </data>
+  <data name="btnSaleReports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 37</value>
+  </data>
+  <data name="btnSaleReports.TabIndex" type="System.Int32, mscorlib">
+    <value>11674</value>
+  </data>
+  <data name="btnSaleReports.Text" xml:space="preserve">
+    <value>Sales Reports</value>
+  </data>
+  <data name="&gt;&gt;btnSaleReports.Name" xml:space="preserve">
+    <value>btnSaleReports</value>
+  </data>
+  <data name="&gt;&gt;btnSaleReports.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnSaleReports.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnSaleReports.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="panel1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="btnClose.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnClose.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt</value>
+  </data>
+  <data name="btnClose.Location" type="System.Drawing.Point, System.Drawing">
+    <value>700, 9</value>
+  </data>
+  <data name="btnClose.Size" type="System.Drawing.Size, System.Drawing">
+    <value>28, 28</value>
+  </data>
+  <data name="btnClose.TabIndex" type="System.Int32, mscorlib">
+    <value>11686</value>
+  </data>
+  <data name="btnClose.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="&gt;&gt;btnClose.Name" xml:space="preserve">
+    <value>btnClose</value>
+  </data>
+  <data name="&gt;&gt;btnClose.Type" xml:space="preserve">
+    <value>ControlLibrary.TAButton, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnClose.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btnClose.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblFormTitle.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblFormTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 14.25pt</value>
+  </data>
+  <data name="lblFormTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 14</value>
+  </data>
+  <data name="lblFormTitle.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="lblFormTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 23</value>
+  </data>
+  <data name="lblFormTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="lblFormTitle.Text" xml:space="preserve">
+    <value>Module wise Reports</value>
+  </data>
+  <data name="lblFormTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblFormTitle.Name" xml:space="preserve">
+    <value>lblFormTitle</value>
+  </data>
+  <data name="&gt;&gt;lblFormTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblFormTitle.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;lblFormTitle.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="panel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>738, 50</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>11673</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>ControlLibrary.GradientPanel, ControlLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>738, 475</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Reports</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ctrReports</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

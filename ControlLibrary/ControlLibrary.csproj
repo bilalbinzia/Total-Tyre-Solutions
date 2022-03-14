@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{76DA6B0D-FFCE-4D8A-83E1-819C22287EA7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControlLibrary</RootNamespace>
+    <AssemblyName>ControlLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.38.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.38\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmOperationMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOperationMessage.Designer.cs">
+      <DependentUpon>frmOperationMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\ctrMessageBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\ctrMessageBox.Designer.cs">
+      <DependentUpon>ctrMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\GradientPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\LeftButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\LeftButton.Designer.cs">
+      <DependentUpon>LeftButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\Notification.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\Notification.Designer.cs">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\TABindingNavigator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\TABindingNavigator.Designer.cs">
+      <DependentUpon>TABindingNavigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\TAComboBoxControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\TAComboBoxControl.Designer.cs">
+      <DependentUpon>TAComboBoxControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperationalControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OperationalControl.Designer.cs">
+      <DependentUpon>OperationalControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BaseControl.Designer.cs">
+      <DependentUpon>BaseControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataGridView\CalendarColumn.cs" />
+    <Compile Include="DataGridView\DGVAutoFilterColumnHeaderCell.cs" />
+    <Compile Include="DataGridView\DGVAutoFilterTextBoxColumn.cs" />
+    <Compile Include="DataGridView\DGVButtonColumn.cs" />
+    <Compile Include="DataGridView\DGVCheckBoxColumn.cs" />
+    <Compile Include="DataGridView\DGVComboBoxColumn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataGridView\DGVMCComboBoxColumn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataGridView\DGVTextBoxColumn.cs" />
+    <Compile Include="DataGridView\libDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataGridView\TAZSearchDataGridView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataGridView\TAZSearchDataGridView.Designer.cs">
+      <DependentUpon>TAZSearchDataGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\CCMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibControls\CCMessageBox.Designer.cs">
+      <DependentUpon>CCMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\ctrProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibControls\ctrProgressBar.Designer.cs">
+      <DependentUpon>ctrProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\DashBoardButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\DashBoardButton.Designer.cs">
+      <DependentUpon>DashBoardButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\MultiColumnComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\TAButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\TAcboButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\TACheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\TAComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\TADateControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\TADateControl.Designer.cs">
+      <DependentUpon>TADateControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\TADateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\TADecimalControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\TADecimalControl.Designer.cs">
+      <DependentUpon>TADecimalControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\TAEncryptTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\TAEncryptTextBox.Designer.cs">
+      <DependentUpon>TAEncryptTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\TANumericUpDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\TAPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\TAPictureBoxControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\TAPictureBoxControl.Designer.cs">
+      <DependentUpon>TAPictureBoxControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\TAProgressBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LibControls\TAProgressBar.Designer.cs">
+      <DependentUpon>TAProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibControls\TARadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LibControls\TATextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SearchUserControl.Designer.cs">
+      <DependentUpon>SearchUserControl.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmOperationMessage.resx">
+      <DependentUpon>frmOperationMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibControls\ctrMessageBox.resx">
+      <DependentUpon>ctrMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibControls\LeftButton.resx">
+      <DependentUpon>LeftButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibControls\Notification.resx">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibControls\TABindingNavigator.resx">
+      <DependentUpon>TABindingNavigator.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibControls\TAComboBoxControl.resx">
+      <DependentUpon>TAComboBoxControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperationalControl.resx">
+      <DependentUpon>OperationalControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseControl.resx">
+      <DependentUpon>BaseControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataGridView\TAZSearchDataGridView.resx">
+      <DependentUpon>TAZSearchDataGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibControls\CCMessageBox.resx">
+      <DependentUpon>CCMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibControls\DashBoardButton.resx">
+      <DependentUpon>DashBoardButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibControls\TAPictureBoxControl.resx">
+      <DependentUpon>TAPictureBoxControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchUserControl.resx">
+      <DependentUpon>SearchUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Movefirst.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Movelast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Movenext.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Moveprevious.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\service-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CButton\CButtonLib.vbproj">
+      <Project>{24116fe6-8501-45f0-add0-67fffb037baf}</Project>
+      <Name>CButtonLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBModule\DBModule.csproj">
+      <Project>{5d33a119-86af-4460-95c2-c742edc8064e}</Project>
+      <Name>DBModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System32\System32.csproj">
+      <Project>{16f2ce2f-bdc8-41a2-a8c3-6dac40241621}</Project>
+      <Name>System32</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accounting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,9 @@
+E:\Projects\AutoVaultESS\QBSync\obj\Release\QBSync.csprojAssemblyReference.cache
+E:\Projects\AutoVaultESS\QBSync\obj\Release\QBSync.frmSettings.resources
+E:\Projects\AutoVaultESS\QBSync\obj\Release\QBSync.frmApplicationLog.resources
+E:\Projects\AutoVaultESS\QBSync\obj\Release\QBSync.frmMain.resources
+E:\Projects\AutoVaultESS\QBSync\obj\Release\QBSync.frmSplashScreen.resources
+E:\Projects\AutoVaultESS\QBSync\obj\Release\QBSync.frmSyncDate.resources
+E:\Projects\AutoVaultESS\QBSync\obj\Release\QBSync.Properties.Resources.resources
+E:\Projects\AutoVaultESS\QBSync\obj\Release\QBSync.csproj.GenerateResource.cache
+E:\Projects\AutoVaultESS\QBSync\obj\Release\QBSync.csproj.CoreCompileInputs.cache

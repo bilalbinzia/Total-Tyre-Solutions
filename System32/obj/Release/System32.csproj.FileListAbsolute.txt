@@ -1,0 +1,5 @@
+E:\Projects\AutoVaultESS\System32\bin\Release\System32.dll
+E:\Projects\AutoVaultESS\System32\bin\Release\System32.pdb
+E:\Projects\AutoVaultESS\System32\obj\Release\System32.csproj.CoreCompileInputs.cache
+E:\Projects\AutoVaultESS\System32\obj\Release\System32.dll
+E:\Projects\AutoVaultESS\System32\obj\Release\System32.pdb

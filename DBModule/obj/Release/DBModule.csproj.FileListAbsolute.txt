@@ -1,0 +1,10 @@
+E:\Projects\AutoVaultESS\DBModule\bin\Release\DBModule.dll.config
+E:\Projects\AutoVaultESS\DBModule\bin\Release\DBModule.dll
+E:\Projects\AutoVaultESS\DBModule\bin\Release\DBModule.pdb
+E:\Projects\AutoVaultESS\DBModule\bin\Release\System32.dll
+E:\Projects\AutoVaultESS\DBModule\bin\Release\System32.pdb
+E:\Projects\AutoVaultESS\DBModule\obj\Release\DBModule.csprojAssemblyReference.cache
+E:\Projects\AutoVaultESS\DBModule\obj\Release\DBModule.csproj.CoreCompileInputs.cache
+E:\Projects\AutoVaultESS\DBModule\obj\Release\DBModule.csproj.CopyComplete
+E:\Projects\AutoVaultESS\DBModule\obj\Release\DBModule.dll
+E:\Projects\AutoVaultESS\DBModule\obj\Release\DBModule.pdb

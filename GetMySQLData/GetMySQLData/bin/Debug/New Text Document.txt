@@ -1,0 +1,81 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+
+namespace WindowsFormsApplication1
+{
+    public partial class Form3 : Form
+    {
+        Calculation objCal;
+        public Form3()
+        {
+            InitializeComponent();
+            objCal = new Calculation();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int rs = objCal.add(25, 20);
+            MessageBox.Show(Convert.ToString(rs));
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+            Work w1 = new Work();
+            Work w2 = new Work();
+            Work w3 = new Work();
+
+            ThreadStart s1 = w1.Count1;
+            Thread thread1 = new Thread(s1);
+            thread1.Start();
+            label1.Text = "thread1.Start()";
+
+            ThreadStart s2 = w2.Count2;
+            Thread thread2 = new Thread(s2);
+            thread2.Start();
+            label2.Text = "thread2.Start()";
+
+            ThreadStart s3 = w3.Count3;
+            Thread thread3 = new Thread(s3);
+            thread3.Start();
+            label3.Text = "thread3.Start()"; 
+
+        }
+
+    }
+
+
+    public class Work
+    {
+        public void Count1()
+        {
+            for (int i = 0; i < 100; i++)
+            {
+                
+            }
+        }
+        public void Count2()
+        {
+            for (int i = 0; i < 100; i++)
+            {
+
+            }
+        }
+        public void Count3()
+        {
+            for (int i = 0; i < 100; i++)
+            {
+
+            }
+        }
+
+    }
+}

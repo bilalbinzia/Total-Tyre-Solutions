@@ -1,0 +1,16 @@
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.csprojAssemblyReference.cache
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.ctrDashBoard2.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.ctrDashBoard1.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.ctrDashBoard.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.ctrDashBoard3.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.ctrReportsList.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.ctrReportsMenu.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.frmDashBoard.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.FrmLogin.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.FrmMain.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.FrmMain2.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.frmUserRights.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.ctrReports.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.Properties.Resources.resources
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.csproj.GenerateResource.cache
+E:\Projects\AutoVaultESS\AutoVaultEss\obj\Release\AutoVaultEss.csproj.CoreCompileInputs.cache

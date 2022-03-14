@@ -1,0 +1,1049 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AC8CF8B3-DD9D-4F00-AFC2-825828D1ABEE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AppControls</RootNamespace>
+    <AssemblyName>AppControls</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.38.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.38\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\AccountsControls\ctrCashVoucher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrCashVoucher.Designer.cs">
+      <DependentUpon>ctrCashVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrBankVoucher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrBankVoucher.Designer.cs">
+      <DependentUpon>ctrBankVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrDailySummary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrDailySummary.Designer.cs">
+      <DependentUpon>ctrDailySummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrGenLedger.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrGenLedger.Designer.cs">
+      <DependentUpon>ctrGenLedger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorPayment.Designer.cs">
+      <DependentUpon>ctrVendorPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrGeneralJournalVoucher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrGeneralJournalVoucher.Designer.cs">
+      <DependentUpon>ctrGeneralJournalVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorPaymentHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorPaymentHistory.Designer.cs">
+      <DependentUpon>ctrVendorPaymentHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\frmCtr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\frmCtr.Designer.cs">
+      <DependentUpon>frmCtr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\frmCtr1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\frmCtr1.Designer.cs">
+      <DependentUpon>frmCtr1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemDefination.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemDefination.Designer.cs">
+      <DependentUpon>ctrItemDefination.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPackage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPackage.Designer.cs">
+      <DependentUpon>ctrPackage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPackagesList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPackagesList.Designer.cs">
+      <DependentUpon>ctrPackagesList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrAccountList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrAccountList.Designer.cs">
+      <DependentUpon>ctrAccountList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrEmployeeList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrEmployeeList.Designer.cs">
+      <DependentUpon>ctrEmployeeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrPackageListForGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrPackageListForGrid.Designer.cs">
+      <DependentUpon>ctrPackageListForGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrVendorBillListing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrVendorBillListing.Designer.cs">
+      <DependentUpon>ctrVendorBillListing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrWorkOrderListing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrWorkOrderListing.Designer.cs">
+      <DependentUpon>ctrWorkOrderListing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrProfitBreakDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrProfitBreakDown.Designer.cs">
+      <DependentUpon>ctrProfitBreakDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrOnOrderList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrOnOrderList.Designer.cs">
+      <DependentUpon>ctrOnOrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrVendorList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrVendorList.Designer.cs">
+      <DependentUpon>ctrVendorList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemGroupTypes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemGroupTypes.Designer.cs">
+      <DependentUpon>ctrItemGroupTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrAdjustmentInventory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrAdjustmentInventory.Designer.cs">
+      <DependentUpon>ctrAdjustmentInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrChartofAccounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrChartofAccounts.Designer.cs">
+      <DependentUpon>ctrChartofAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MainControls\Notifications.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MainControls\Notifications.Designer.cs">
+      <DependentUpon>Notifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrBrowseInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrBrowseInvoice.Designer.cs">
+      <DependentUpon>ctrBrowseInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrClaimCredit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrClaimCredit.Designer.cs">
+      <DependentUpon>ctrClaimCredit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrCustomerPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrCustomerPayment.Designer.cs">
+      <DependentUpon>ctrCustomerPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrCustomerReceipt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrCustomerReceipt.Designer.cs">
+      <DependentUpon>ctrCustomerReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrCheckBook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrCheckBook.Designer.cs">
+      <DependentUpon>ctrCheckBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrWarrantyClaimAndCoresList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrWarrantyClaimAndCoresList.Designer.cs">
+      <DependentUpon>ctrWarrantyClaimAndCoresList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemPriceChange.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemPriceChange.Designer.cs">
+      <DependentUpon>ctrItemPriceChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPhysicalInventorySession.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPhysicalInventorySession.Designer.cs">
+      <DependentUpon>ctrPhysicalInventorySession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrPreventiveMaintenancSetup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrPreventiveMaintenancSetup.Designer.cs">
+      <DependentUpon>ctrPreventiveMaintenancSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemList.Designer.cs">
+      <DependentUpon>ctrItemList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorBillDetail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorBillDetail.Designer.cs">
+      <DependentUpon>ctrVendorBillDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorPaymentList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorPaymentList.Designer.cs">
+      <DependentUpon>ctrVendorPaymentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorBillList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrVendorBillList.Designer.cs">
+      <DependentUpon>ctrVendorBillList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrPurchaseOrderVendorBill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrPurchaseOrderVendorBill.Designer.cs">
+      <DependentUpon>ctrPurchaseOrderVendorBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrPurchaseOrderAddItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrPurchaseOrderAddItem.Designer.cs">
+      <DependentUpon>ctrPurchaseOrderAddItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrCompany.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrCompany.Designer.cs">
+      <DependentUpon>ctrCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrRacks.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrRacks.Designer.cs">
+      <DependentUpon>ctrRacks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrWarehouseStore.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrWarehouseStore.Designer.cs">
+      <DependentUpon>ctrWarehouseStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrWarrantyClaim.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrWarrantyClaim.Designer.cs">
+      <DependentUpon>ctrWarrantyClaim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrBookingOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrBookingOrder.Designer.cs">
+      <DependentUpon>ctrBookingOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrDailySaleList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrDailySaleList.Designer.cs">
+      <DependentUpon>ctrDailySaleList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrCustomerAdjustment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrCustomerAdjustment.Designer.cs">
+      <DependentUpon>ctrCustomerAdjustment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrSearchWorkOrders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrSearchWorkOrders.Designer.cs">
+      <DependentUpon>ctrSearchWorkOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrWorkOrderDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrWorkOrderDetails.Designer.cs">
+      <DependentUpon>ctrWorkOrderDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrCustomerTransactions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrCustomerTransactions.Designer.cs">
+      <DependentUpon>ctrCustomerTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrWorkOrderNegate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrWorkOrderNegate.Designer.cs">
+      <DependentUpon>ctrWorkOrderNegate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrWorkOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrWorkOrder.Designer.cs">
+      <DependentUpon>ctrWorkOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrBankAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrBankAccount.Designer.cs">
+      <DependentUpon>ctrBankAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrClaim.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrClaim.Designer.cs">
+      <DependentUpon>ctrClaim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrCustomer.Designer.cs">
+      <DependentUpon>ctrCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MainControls\ctrEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MainControls\ctrEmployee.Designer.cs">
+      <DependentUpon>ctrEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrPurchaseOrderList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrPurchaseOrderList.Designer.cs">
+      <DependentUpon>ctrPurchaseOrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrWorkOrderList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrWorkOrderList.Designer.cs">
+      <DependentUpon>ctrWorkOrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrLabor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrLabor.Designer.cs">
+      <DependentUpon>ctrLabor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemGroupItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemGroupItems.Designer.cs">
+      <DependentUpon>ctrItemGroupItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemCatalog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemCatalog.Designer.cs">
+      <DependentUpon>ctrItemCatalog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrZipCode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrZipCode.Designer.cs">
+      <DependentUpon>ctrZipCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrCity.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrCity.Designer.cs">
+      <DependentUpon>ctrCity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrInvoiceDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrInvoiceDetails.Designer.cs">
+      <DependentUpon>ctrInvoiceDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\UserControlTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\UserControlTest.Designer.cs">
+      <DependentUpon>UserControlTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ViewInvoices.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ViewInvoices.Designer.cs">
+      <DependentUpon>ViewInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrChangePassword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrChangePassword.Designer.cs">
+      <DependentUpon>ctrChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MainControls\ctrClockInMechanic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MainControls\ctrClockInMechanic.Designer.cs">
+      <DependentUpon>ctrClockInMechanic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrCreditCards.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AccountsControls\ctrCreditCards.Designer.cs">
+      <DependentUpon>ctrCreditCards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrVehicleList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrVehicleList.Designer.cs">
+      <DependentUpon>ctrVehicleList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrCustomerList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrCustomerList.Designer.cs">
+      <DependentUpon>ctrCustomerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrDBBackUp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrDBBackUp.Designer.cs">
+      <DependentUpon>ctrDBBackUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrInventoryCount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrInventoryCount.Designer.cs">
+      <DependentUpon>ctrInventoryCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrInventoryTransfer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrInventoryTransfer.Designer.cs">
+      <DependentUpon>ctrInventoryTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrNegateWindow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrNegateWindow.Designer.cs">
+      <DependentUpon>ctrNegateWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrVehicleInspectionItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrVehicleInspectionItems.Designer.cs">
+      <DependentUpon>ctrVehicleInspectionItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrVehicleInspection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrVehicleInspection.Designer.cs">
+      <DependentUpon>ctrVehicleInspection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrReferredBy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrReferredBy.Designer.cs">
+      <DependentUpon>ctrReferredBy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MainControls\ctrMechanicTrack.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MainControls\ctrMechanicTrack.Designer.cs">
+      <DependentUpon>ctrMechanicTrack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrOilViscosities.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrOilViscosities.Designer.cs">
+      <DependentUpon>ctrOilViscosities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPriceLevels.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPriceLevels.Designer.cs">
+      <DependentUpon>ctrPriceLevels.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrRequestTransfer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrRequestTransfer.Designer.cs">
+      <DependentUpon>ctrRequestTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrSalesCategories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrSalesCategories.Designer.cs">
+      <DependentUpon>ctrSalesCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrSaleTaxAuthorities.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrSaleTaxAuthorities.Designer.cs">
+      <DependentUpon>ctrSaleTaxAuthorities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrSaleTaxRates.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrSaleTaxRates.Designer.cs">
+      <DependentUpon>ctrSaleTaxRates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrScheduler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrScheduler.Designer.cs">
+      <DependentUpon>ctrScheduler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrSettings.Designer.cs">
+      <DependentUpon>ctrSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrShippingMethods.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrShippingMethods.Designer.cs">
+      <DependentUpon>ctrShippingMethods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrState.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MiscControls\ctrState.Designer.cs">
+      <DependentUpon>ctrState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrTerms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrTerms.Designer.cs">
+      <DependentUpon>ctrTerms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrTireCalculator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrTireCalculator.Designer.cs">
+      <DependentUpon>ctrTireCalculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrUtilities.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SportingControls\ctrUtilities.Designer.cs">
+      <DependentUpon>ctrUtilities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrVehicle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrVehicle.Designer.cs">
+      <DependentUpon>ctrVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrVendor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PurchaseControls\ctrVendor.Designer.cs">
+      <DependentUpon>ctrVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrWarehouse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CompanyControls\ctrWarehouse.Designer.cs">
+      <DependentUpon>ctrWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemGroup.Designer.cs">
+      <DependentUpon>ctrItemGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrServicesForWO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrServicesForWO.Designer.cs">
+      <DependentUpon>ctrServicesForWO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrItemListForGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListControls\ctrItemListForGrid.Designer.cs">
+      <DependentUpon>ctrItemListForGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrManufacturers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrManufacturers.Designer.cs">
+      <DependentUpon>ctrManufacturers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemType.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrItemType.Designer.cs">
+      <DependentUpon>ctrItemType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPackages.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InventoryControls\ctrPackages.Designer.cs">
+      <DependentUpon>ctrPackages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrToggleWOColumns.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesControls\ctrToggleWOColumns.Designer.cs">
+      <DependentUpon>ctrToggleWOColumns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrCashVoucher.resx">
+      <DependentUpon>ctrCashVoucher.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrBankVoucher.resx">
+      <DependentUpon>ctrBankVoucher.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrDailySummary.resx">
+      <DependentUpon>ctrDailySummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrGenLedger.resx">
+      <DependentUpon>ctrGenLedger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrVendorPayment.resx">
+      <DependentUpon>ctrVendorPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrGeneralJournalVoucher.resx">
+      <DependentUpon>ctrGeneralJournalVoucher.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrVendorPaymentHistory.resx">
+      <DependentUpon>ctrVendorPaymentHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\frmCtr.resx">
+      <DependentUpon>frmCtr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\frmCtr1.resx">
+      <DependentUpon>frmCtr1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrItemDefination.resx">
+      <DependentUpon>ctrItemDefination.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrPackage.resx">
+      <DependentUpon>ctrPackage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrPackagesList.resx">
+      <DependentUpon>ctrPackagesList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrAccountList.resx">
+      <DependentUpon>ctrAccountList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrEmployeeList.resx">
+      <DependentUpon>ctrEmployeeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrPackageListForGrid.resx">
+      <DependentUpon>ctrPackageListForGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrVendorBillListing.resx">
+      <DependentUpon>ctrVendorBillListing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrWorkOrderListing.resx">
+      <DependentUpon>ctrWorkOrderListing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrProfitBreakDown.resx">
+      <DependentUpon>ctrProfitBreakDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrOnOrderList.resx">
+      <DependentUpon>ctrOnOrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrVendorList.resx">
+      <DependentUpon>ctrVendorList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrItemGroupTypes.resx">
+      <DependentUpon>ctrItemGroupTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrAdjustmentInventory.resx">
+      <DependentUpon>ctrAdjustmentInventory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrChartofAccounts.resx">
+      <DependentUpon>ctrChartofAccounts.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MainControls\Notifications.resx">
+      <DependentUpon>Notifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrBrowseInvoice.resx">
+      <DependentUpon>ctrBrowseInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrClaimCredit.resx">
+      <DependentUpon>ctrClaimCredit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrCustomerPayment.resx">
+      <DependentUpon>ctrCustomerPayment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrCustomerReceipt.resx">
+      <DependentUpon>ctrCustomerReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrCheckBook.resx">
+      <DependentUpon>ctrCheckBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PurchaseControls\ctrWarrantyClaimAndCoresList.resx">
+      <DependentUpon>ctrWarrantyClaimAndCoresList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrItemPriceChange.resx">
+      <DependentUpon>ctrItemPriceChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrPhysicalInventorySession.resx">
+      <DependentUpon>ctrPhysicalInventorySession.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PurchaseControls\ctrPreventiveMaintenancSetup.resx">
+      <DependentUpon>ctrPreventiveMaintenancSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrItemList.resx">
+      <DependentUpon>ctrItemList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrVendorBillDetail.resx">
+      <DependentUpon>ctrVendorBillDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrVendorPaymentList.resx">
+      <DependentUpon>ctrVendorPaymentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrVendorBillList.resx">
+      <DependentUpon>ctrVendorBillList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PurchaseControls\ctrPurchaseOrderVendorBill.resx">
+      <DependentUpon>ctrPurchaseOrderVendorBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PurchaseControls\ctrPurchaseOrderAddItem.resx">
+      <DependentUpon>ctrPurchaseOrderAddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CompanyControls\ctrCompany.resx">
+      <DependentUpon>ctrCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CompanyControls\ctrRacks.resx">
+      <DependentUpon>ctrRacks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CompanyControls\ctrWarehouseStore.resx">
+      <DependentUpon>ctrWarehouseStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PurchaseControls\ctrWarrantyClaim.resx">
+      <DependentUpon>ctrWarrantyClaim.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrBookingOrder.resx">
+      <DependentUpon>ctrBookingOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrDailySaleList.resx">
+      <DependentUpon>ctrDailySaleList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrCustomerAdjustment.resx">
+      <DependentUpon>ctrCustomerAdjustment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrSearchWorkOrders.resx">
+      <DependentUpon>ctrSearchWorkOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrWorkOrderDetails.resx">
+      <DependentUpon>ctrWorkOrderDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrCustomerTransactions.resx">
+      <DependentUpon>ctrCustomerTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrWorkOrderNegate.resx">
+      <DependentUpon>ctrWorkOrderNegate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrWorkOrder.resx">
+      <DependentUpon>ctrWorkOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrBankAccount.resx">
+      <DependentUpon>ctrBankAccount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrClaim.resx">
+      <DependentUpon>ctrClaim.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrCustomer.resx">
+      <DependentUpon>ctrCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MainControls\ctrEmployee.resx">
+      <DependentUpon>ctrEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PurchaseControls\ctrPurchaseOrderList.resx">
+      <DependentUpon>ctrPurchaseOrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrWorkOrderList.resx">
+      <DependentUpon>ctrWorkOrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrLabor.resx">
+      <DependentUpon>ctrLabor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrItemGroupItems.resx">
+      <DependentUpon>ctrItemGroupItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrItemCatalog.resx">
+      <DependentUpon>ctrItemCatalog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MiscControls\ctrZipCode.resx">
+      <DependentUpon>ctrZipCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MiscControls\ctrCity.resx">
+      <DependentUpon>ctrCity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrInvoiceDetails.resx">
+      <DependentUpon>ctrInvoiceDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\UserControlTest.resx">
+      <DependentUpon>UserControlTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ViewInvoices.resx">
+      <DependentUpon>ViewInvoices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SportingControls\ctrChangePassword.resx">
+      <DependentUpon>ctrChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MainControls\ctrClockInMechanic.resx">
+      <DependentUpon>ctrClockInMechanic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AccountsControls\ctrCreditCards.resx">
+      <DependentUpon>ctrCreditCards.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrVehicleList.resx">
+      <DependentUpon>ctrVehicleList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrCustomerList.resx">
+      <DependentUpon>ctrCustomerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SportingControls\ctrDBBackUp.resx">
+      <DependentUpon>ctrDBBackUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrInventoryCount.resx">
+      <DependentUpon>ctrInventoryCount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrInventoryTransfer.resx">
+      <DependentUpon>ctrInventoryTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrNegateWindow.resx">
+      <DependentUpon>ctrNegateWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrVehicleInspectionItems.resx">
+      <DependentUpon>ctrVehicleInspectionItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrVehicleInspection.resx">
+      <DependentUpon>ctrVehicleInspection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MiscControls\ctrReferredBy.resx">
+      <DependentUpon>ctrReferredBy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MainControls\ctrMechanicTrack.resx">
+      <DependentUpon>ctrMechanicTrack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrOilViscosities.resx">
+      <DependentUpon>ctrOilViscosities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrPriceLevels.resx">
+      <DependentUpon>ctrPriceLevels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrRequestTransfer.resx">
+      <DependentUpon>ctrRequestTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrSalesCategories.resx">
+      <DependentUpon>ctrSalesCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrSaleTaxAuthorities.resx">
+      <DependentUpon>ctrSaleTaxAuthorities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrSaleTaxRates.resx">
+      <DependentUpon>ctrSaleTaxRates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SportingControls\ctrScheduler.resx">
+      <DependentUpon>ctrScheduler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CompanyControls\ctrSettings.resx">
+      <DependentUpon>ctrSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MiscControls\ctrShippingMethods.resx">
+      <DependentUpon>ctrShippingMethods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MiscControls\ctrState.resx">
+      <DependentUpon>ctrState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrTerms.resx">
+      <DependentUpon>ctrTerms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SportingControls\ctrTireCalculator.resx">
+      <DependentUpon>ctrTireCalculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SportingControls\ctrUtilities.resx">
+      <DependentUpon>ctrUtilities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrVehicle.resx">
+      <DependentUpon>ctrVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PurchaseControls\ctrVendor.resx">
+      <DependentUpon>ctrVendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CompanyControls\ctrWarehouse.resx">
+      <DependentUpon>ctrWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrItemGroup.resx">
+      <DependentUpon>ctrItemGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrServicesForWO.resx">
+      <DependentUpon>ctrServicesForWO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListControls\ctrItemListForGrid.resx">
+      <DependentUpon>ctrItemListForGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrManufacturers.resx">
+      <DependentUpon>ctrManufacturers.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrItemType.resx">
+      <DependentUpon>ctrItemType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InventoryControls\ctrPackages.resx">
+      <DependentUpon>ctrPackages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesControls\ctrToggleWOColumns.resx">
+      <DependentUpon>ctrToggleWOColumns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CButton\CButtonLib.vbproj">
+      <Project>{24116fe6-8501-45f0-add0-67fffb037baf}</Project>
+      <Name>CButtonLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControlLibrary\ControlLibrary.csproj">
+      <Project>{76da6b0d-ffce-4d8a-83e1-819c22287ea7}</Project>
+      <Name>ControlLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBModule\DBModule.csproj">
+      <Project>{5d33a119-86af-4460-95c2-c742edc8064e}</Project>
+      <Name>DBModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QBSync\QBSync.csproj">
+      <Project>{97170ee5-3ea2-4dba-b219-35129d97331e}</Project>
+      <Name>QBSync</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RptModule\RptModule.csproj">
+      <Project>{7bd5d815-3085-4ede-8eb5-2bcedc02a872}</Project>
+      <Name>RptModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System32\System32.csproj">
+      <Project>{16f2ce2f-bdc8-41a2-a8c3-6dac40241621}</Project>
+      <Name>System32</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TSS Less Opacity.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

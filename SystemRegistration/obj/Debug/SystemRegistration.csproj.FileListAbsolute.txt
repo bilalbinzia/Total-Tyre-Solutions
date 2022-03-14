@@ -1,0 +1,246 @@
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.pdb
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.dll
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.dll
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.dll
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.dll
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.pdb
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.pdb
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.pdb
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.pdb
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.xml
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csprojResolveAssemblyReference.cache
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.Cache
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.exe
+C:\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.xml
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.exe
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.xml
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.exe
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (18-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.xml
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.exe
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (20-03-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.dll
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.xml
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csprojResolveAssemblyReference.cache
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.Cache
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.exe
+C:\Users\ESS\Desktop\AutoVaultESS-17-04-2020\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.exe
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\SystemRegistration.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.dll
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\ControlLibrary.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\DBModule.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\System32.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.pdb
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\bin\Debug\CButtonLib.xml
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csprojResolveAssemblyReference.cache
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.Cache
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.exe
+C:\Users\ESS\Desktop\AutoVaultESS-Latest\AutoVaultESS-15-04-2020\AutoVaultEss\AutoVaultEss\SystemRegistration\obj\Debug\SystemRegistration.pdb
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\SystemRegistration.exe
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\SystemRegistration.pdb
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\ControlLibrary.dll
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\DBModule.dll
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\System32.dll
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\CButtonLib.dll
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\ControlLibrary.pdb
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\DBModule.pdb
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\System32.pdb
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\CButtonLib.pdb
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\CButtonLib.xml
+D:\Project\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+D:\Project\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.Cache
+D:\Project\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.exe
+D:\Project\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.pdb
+D:\Project\AutoVaultESS\SystemRegistration\bin\Debug\DBModule.dll.config
+D:\Project\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.csprojAssemblyReference.cache
+D:\Project\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.csproj.CoreCompileInputs.cache
+D:\Project\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.csproj.CopyComplete
+D:\Project\AutoVault\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+D:\Project\AutoVault\SystemRegistration\bin\Debug\SystemRegistration.exe
+D:\Project\AutoVault\SystemRegistration\bin\Debug\SystemRegistration.pdb
+D:\Project\AutoVault\SystemRegistration\bin\Debug\ControlLibrary.dll
+D:\Project\AutoVault\SystemRegistration\bin\Debug\DBModule.dll
+D:\Project\AutoVault\SystemRegistration\bin\Debug\System32.dll
+D:\Project\AutoVault\SystemRegistration\bin\Debug\CButtonLib.dll
+D:\Project\AutoVault\SystemRegistration\bin\Debug\ControlLibrary.pdb
+D:\Project\AutoVault\SystemRegistration\bin\Debug\DBModule.pdb
+D:\Project\AutoVault\SystemRegistration\bin\Debug\DBModule.dll.config
+D:\Project\AutoVault\SystemRegistration\bin\Debug\System32.pdb
+D:\Project\AutoVault\SystemRegistration\bin\Debug\CButtonLib.pdb
+D:\Project\AutoVault\SystemRegistration\bin\Debug\CButtonLib.xml
+D:\Project\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.csprojAssemblyReference.cache
+D:\Project\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+D:\Project\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.cache
+D:\Project\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.csproj.CoreCompileInputs.cache
+D:\Project\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.csproj.CopyComplete
+D:\Project\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.exe
+D:\Project\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.pdb
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\SystemRegistration.exe
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\SystemRegistration.pdb
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\ControlLibrary.dll
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\DBModule.dll
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\System32.dll
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\CButtonLib.dll
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\ControlLibrary.pdb
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\DBModule.pdb
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\DBModule.dll.config
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\System32.pdb
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\CButtonLib.pdb
+D:\Projects\AutoVault\SystemRegistration\bin\Debug\CButtonLib.xml
+D:\Projects\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.csprojAssemblyReference.cache
+D:\Projects\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+D:\Projects\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.cache
+D:\Projects\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.csproj.CoreCompileInputs.cache
+D:\Projects\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.csproj.CopyComplete
+D:\Projects\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.exe
+D:\Projects\AutoVault\SystemRegistration\obj\Debug\SystemRegistration.pdb
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\SystemRegistration.exe
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\SystemRegistration.pdb
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\ControlLibrary.dll
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\DBModule.dll
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\System32.dll
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\CButtonLib.dll
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\ControlLibrary.pdb
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\DBModule.pdb
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\DBModule.dll.config
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\System32.pdb
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\CButtonLib.pdb
+E:\Projects\AutoVaultESS\SystemRegistration\bin\Debug\CButtonLib.xml
+E:\Projects\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.csprojAssemblyReference.cache
+E:\Projects\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+E:\Projects\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.cache
+E:\Projects\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.csproj.CoreCompileInputs.cache
+E:\Projects\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.csproj.CopyComplete
+E:\Projects\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.exe
+E:\Projects\AutoVaultESS\SystemRegistration\obj\Debug\SystemRegistration.pdb
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\SystemRegistration.exe
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\SystemRegistration.pdb
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\ControlLibrary.dll
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\DBModule.dll
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\System32.dll
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\CButtonLib.dll
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\ControlLibrary.pdb
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\DBModule.pdb
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\DBModule.dll.config
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\System32.pdb
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\CButtonLib.pdb
+E:\Projects\cSouth Mountain Tires\SystemRegistration\bin\Debug\CButtonLib.xml
+E:\Projects\cSouth Mountain Tires\SystemRegistration\obj\Debug\SystemRegistration.csprojAssemblyReference.cache
+E:\Projects\cSouth Mountain Tires\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+E:\Projects\cSouth Mountain Tires\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.cache
+E:\Projects\cSouth Mountain Tires\SystemRegistration\obj\Debug\SystemRegistration.csproj.CoreCompileInputs.cache
+E:\Projects\cSouth Mountain Tires\SystemRegistration\obj\Debug\SystemRegistration.csproj.CopyComplete
+E:\Projects\cSouth Mountain Tires\SystemRegistration\obj\Debug\SystemRegistration.exe
+E:\Projects\cSouth Mountain Tires\SystemRegistration\obj\Debug\SystemRegistration.pdb
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\SystemRegistration.exe
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\SystemRegistration.pdb
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\ControlLibrary.dll
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\DBModule.dll
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\System32.dll
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\CButtonLib.dll
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\ControlLibrary.pdb
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\DBModule.pdb
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\DBModule.dll.config
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\System32.pdb
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\CButtonLib.pdb
+D:\Project\EssDesktopRetailer\SystemRegistration\bin\Debug\CButtonLib.xml
+D:\Project\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.csprojAssemblyReference.cache
+D:\Project\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+D:\Project\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.cache
+D:\Project\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.csproj.CoreCompileInputs.cache
+D:\Project\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.csproj.CopyComplete
+D:\Project\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.exe
+D:\Project\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\SystemRegistration.exe.config
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\SystemRegistration.exe
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\SystemRegistration.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\ControlLibrary.dll
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\DBModule.dll
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\System32.dll
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\CButtonLib.dll
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\ControlLibrary.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\DBModule.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\DBModule.dll.config
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\System32.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\CButtonLib.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\bin\Debug\CButtonLib.xml
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.Properties.Resources.resources
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.csproj.GenerateResource.cache
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.csproj.CopyComplete
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.exe
+C:\Users\user\Desktop\EssDesktopRetailer\SystemRegistration\obj\Debug\SystemRegistration.pdb

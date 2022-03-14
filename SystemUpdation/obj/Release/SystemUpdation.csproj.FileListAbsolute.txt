@@ -1,0 +1,6 @@
+E:\Projects\AutoVaultESS\SystemUpdation\obj\Release\SystemUpdation.csprojAssemblyReference.cache
+E:\Projects\AutoVaultESS\SystemUpdation\obj\Release\SystemUpdation.Form1.resources
+E:\Projects\AutoVaultESS\SystemUpdation\obj\Release\SystemUpdation.Form2.resources
+E:\Projects\AutoVaultESS\SystemUpdation\obj\Release\SystemUpdation.Properties.Resources.resources
+E:\Projects\AutoVaultESS\SystemUpdation\obj\Release\SystemUpdation.csproj.GenerateResource.cache
+E:\Projects\AutoVaultESS\SystemUpdation\obj\Release\SystemUpdation.csproj.CoreCompileInputs.cache

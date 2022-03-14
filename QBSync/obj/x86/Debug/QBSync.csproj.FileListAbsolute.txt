@@ -1,0 +1,16 @@
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\bin\x86\Debug\QBSync.mdb
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\bin\x86\Debug\QBSync.exe.config
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\bin\x86\Debug\QBSync.exe
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\bin\x86\Debug\QBSync.pdb
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\obj\x86\Debug\QBSync.frmSettings.resources
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\obj\x86\Debug\QBSync.frmApplicationLog.resources
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\obj\x86\Debug\QBSync.frmMain.resources
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\obj\x86\Debug\QBSync.frmSplashScreen.resources
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\obj\x86\Debug\QBSync.Properties.Resources.resources
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\obj\x86\Debug\QBSync.csproj.GenerateResource.Cache
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\obj\x86\Debug\QBSync.exe
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\obj\x86\Debug\QBSync.pdb
+D:\Projects\QBSync SuiteCRM [Daniel M]\QBSync Suite CRM\QBSync\obj\x86\Debug\QBSync.csprojResolveAssemblyReference.cache
+D:\Projects\QBLinX [Gellet]\New\QBSync\bin\x86\Debug\QBSync.exe.config
+D:\Projects\QBLinX [Gellet]\New\QBSync\obj\x86\Debug\QBSync.exe
+D:\Projects\QBLinX [Gellet]\New\QBSync\obj\x86\Debug\QBSync.pdb

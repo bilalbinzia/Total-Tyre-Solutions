@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB06DE10-754E-430C-B25D-F21541E6FD40}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AutoVaultEss</RootNamespace>
+    <AssemblyName>AutoVaultEss</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\TTS Logo ic.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.38.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.38\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ctrDashBoard2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrDashBoard2.Designer.cs">
+      <DependentUpon>ctrDashBoard2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrDashBoard1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrDashBoard1.Designer.cs">
+      <DependentUpon>ctrDashBoard1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrDashBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrDashBoard.Designer.cs">
+      <DependentUpon>ctrDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrDashBoard3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrDashBoard3.Designer.cs">
+      <DependentUpon>ctrDashBoard3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrReportsList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrReportsList.Designer.cs">
+      <DependentUpon>ctrReportsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrReportsMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrReportsMenu.Designer.cs">
+      <DependentUpon>ctrReportsMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDashBoard.Designer.cs">
+      <DependentUpon>frmDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHandler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain2.Designer.cs">
+      <DependentUpon>FrmMain2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserRights.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmUserRights.Designer.cs">
+      <DependentUpon>frmUserRights.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListReports.Designer.cs">
+      <DependentUpon>ListReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MenuConfigAppControls.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ctrDashBoard2.resx">
+      <DependentUpon>ctrDashBoard2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrDashBoard1.resx">
+      <DependentUpon>ctrDashBoard1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrDashBoard.resx">
+      <DependentUpon>ctrDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrDashBoard3.resx">
+      <DependentUpon>ctrDashBoard3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrReportsList.resx">
+      <DependentUpon>ctrReportsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrReportsMenu.resx">
+      <DependentUpon>ctrReportsMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDashBoard.resx">
+      <DependentUpon>frmDashBoard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain2.resx">
+      <DependentUpon>FrmMain2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserRights.resx">
+      <DependentUpon>frmUserRights.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListReports.resx">
+      <DependentUpon>ListReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lockwhite2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userwhite21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warehouseicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogOut.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Power-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accounts-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adjustment-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alternates-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backup-icon-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank-account-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change-Password-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-book-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock-in-mechanic-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-receipts-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-refund-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\general-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory-adjustment-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory-count-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory-transfer-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item-product-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item-stock-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mechanic-track-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order-receiving-list-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchase-order--receiving-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reporting-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sale-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\service-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vehicle-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vendor-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vendor-bill-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vendor-payments-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warehouse-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warranty-claim-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\work-order-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\work-order-listing-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\work-order-register-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creditcards-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item-group-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item-type-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manufactures-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oil-viscosities-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\price-level-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refered-by-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sale-categories-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sale-tax-authorities-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sale-tax-rate-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipping-methods-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\state-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terms-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\utilities-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zipcode-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cartIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\utility.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AutoHide1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AutoHide2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AppControls\AppControls.csproj">
+      <Project>{ac8cf8b3-dd9d-4f00-afc2-825828d1abee}</Project>
+      <Name>AppControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CButton\CButtonLib.vbproj">
+      <Project>{24116fe6-8501-45f0-add0-67fffb037baf}</Project>
+      <Name>CButtonLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControlLibrary\ControlLibrary.csproj">
+      <Project>{76da6b0d-ffce-4d8a-83e1-819c22287ea7}</Project>
+      <Name>ControlLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBModule\DBModule.csproj">
+      <Project>{5d33a119-86af-4460-95c2-c742edc8064e}</Project>
+      <Name>DBModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QBSync\QBSync.csproj">
+      <Project>{97170ee5-3ea2-4dba-b219-35129d97331e}</Project>
+      <Name>QBSync</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RptModule\RptModule.csproj">
+      <Project>{7bd5d815-3085-4ede-8eb5-2bcedc02a872}</Project>
+      <Name>RptModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System32\System32.csproj">
+      <Project>{16f2ce2f-bdc8-41a2-a8c3-6dac40241621}</Project>
+      <Name>System32</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar-round-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting-black-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting-black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accounting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\general.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warehouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warehouse32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employee32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vendor32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vehicle32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accounts32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assets32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\102.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-48x84.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-800x800.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\android-icon-192x192.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESSlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wheel Mart Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\TTS Logo ic.ico" />
+    <Content Include="Resources\Wheel Mart Logo.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

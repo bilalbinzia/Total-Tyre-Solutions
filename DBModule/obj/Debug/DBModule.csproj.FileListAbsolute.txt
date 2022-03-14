@@ -1,0 +1,54 @@
+D:\Projects\AutoVault\DBModule\bin\Debug\DBModule.dll.config
+D:\Projects\AutoVault\DBModule\bin\Debug\DBModule.dll
+D:\Projects\AutoVault\DBModule\bin\Debug\DBModule.pdb
+D:\Projects\AutoVault\DBModule\bin\Debug\System32.dll
+D:\Projects\AutoVault\DBModule\bin\Debug\System32.pdb
+D:\Projects\AutoVault\DBModule\obj\Debug\DBModule.csprojAssemblyReference.cache
+D:\Projects\AutoVault\DBModule\obj\Debug\DBModule.csproj.CoreCompileInputs.cache
+D:\Projects\AutoVault\DBModule\obj\Debug\DBModule.csproj.CopyComplete
+D:\Projects\AutoVault\DBModule\obj\Debug\DBModule.dll
+D:\Projects\AutoVault\DBModule\obj\Debug\DBModule.pdb
+E:\Projects\AutoVaultESS\DBModule\bin\Debug\DBModule.dll.config
+E:\Projects\AutoVaultESS\DBModule\bin\Debug\DBModule.dll
+E:\Projects\AutoVaultESS\DBModule\bin\Debug\DBModule.pdb
+E:\Projects\AutoVaultESS\DBModule\bin\Debug\System32.dll
+E:\Projects\AutoVaultESS\DBModule\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Projects\AutoVaultESS\DBModule\bin\Debug\System32.pdb
+E:\Projects\AutoVaultESS\DBModule\obj\Debug\DBModule.csprojAssemblyReference.cache
+E:\Projects\AutoVaultESS\DBModule\obj\Debug\DBModule.csproj.CoreCompileInputs.cache
+E:\Projects\AutoVaultESS\DBModule\obj\Debug\DBModule.csproj.CopyComplete
+E:\Projects\AutoVaultESS\DBModule\obj\Debug\DBModule.dll
+E:\Projects\AutoVaultESS\DBModule\obj\Debug\DBModule.pdb
+E:\Projects\cSouth Mountain Tires\DBModule\bin\Debug\DBModule.dll.config
+E:\Projects\cSouth Mountain Tires\DBModule\bin\Debug\DBModule.dll
+E:\Projects\cSouth Mountain Tires\DBModule\bin\Debug\DBModule.pdb
+E:\Projects\cSouth Mountain Tires\DBModule\bin\Debug\System32.dll
+E:\Projects\cSouth Mountain Tires\DBModule\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Projects\cSouth Mountain Tires\DBModule\bin\Debug\System32.pdb
+E:\Projects\cSouth Mountain Tires\DBModule\obj\Debug\DBModule.csprojAssemblyReference.cache
+E:\Projects\cSouth Mountain Tires\DBModule\obj\Debug\DBModule.csproj.CoreCompileInputs.cache
+E:\Projects\cSouth Mountain Tires\DBModule\obj\Debug\DBModule.csproj.CopyComplete
+E:\Projects\cSouth Mountain Tires\DBModule\obj\Debug\DBModule.dll
+E:\Projects\cSouth Mountain Tires\DBModule\obj\Debug\DBModule.pdb
+D:\Project\EssDesktopRetailer\DBModule\bin\Debug\DBModule.dll.config
+D:\Project\EssDesktopRetailer\DBModule\bin\Debug\DBModule.dll
+D:\Project\EssDesktopRetailer\DBModule\bin\Debug\DBModule.pdb
+D:\Project\EssDesktopRetailer\DBModule\bin\Debug\System32.dll
+D:\Project\EssDesktopRetailer\DBModule\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Project\EssDesktopRetailer\DBModule\bin\Debug\System32.pdb
+D:\Project\EssDesktopRetailer\DBModule\obj\Debug\DBModule.csprojAssemblyReference.cache
+D:\Project\EssDesktopRetailer\DBModule\obj\Debug\DBModule.csproj.CoreCompileInputs.cache
+D:\Project\EssDesktopRetailer\DBModule\obj\Debug\DBModule.csproj.CopyComplete
+D:\Project\EssDesktopRetailer\DBModule\obj\Debug\DBModule.dll
+D:\Project\EssDesktopRetailer\DBModule\obj\Debug\DBModule.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\bin\Debug\DBModule.dll.config
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\bin\Debug\DBModule.dll
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\bin\Debug\DBModule.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\bin\Debug\System32.dll
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\bin\Debug\System32.pdb
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\obj\Debug\DBModule.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\obj\Debug\DBModule.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\obj\Debug\DBModule.csproj.CopyComplete
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\obj\Debug\DBModule.dll
+C:\Users\user\Desktop\EssDesktopRetailer\DBModule\obj\Debug\DBModule.pdb

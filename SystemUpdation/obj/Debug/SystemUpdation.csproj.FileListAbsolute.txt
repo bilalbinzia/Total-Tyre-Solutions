@@ -1,0 +1,17 @@
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\bin\Debug\SystemUpdation.exe.config
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\bin\Debug\SystemUpdation.exe
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\bin\Debug\SystemUpdation.pdb
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.Form1.resources
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.Form2.resources
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.Properties.Resources.resources
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.csproj.GenerateResource.Cache
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.exe
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.pdb
+C:\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.Form1.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.Form2.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.exe
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\AutoVaultEss\SystemUpdation\obj\Debug\SystemUpdation.pdb

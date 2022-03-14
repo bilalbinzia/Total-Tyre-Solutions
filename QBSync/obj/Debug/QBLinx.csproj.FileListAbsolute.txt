@@ -1,0 +1,28 @@
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\bin\Debug\QBSync.exe.config
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\bin\Debug\QBSync.exe
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\bin\Debug\QBSync.pdb
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBLinx.csprojAssemblyReference.cache
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBSync.frmSettings.resources
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBSync.frmApplicationLog.resources
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBSync.frmMain.resources
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBSync.frmSplashScreen.resources
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBSync.frmSyncDate.resources
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBSync.Properties.Resources.resources
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBLinx.csproj.GenerateResource.cache
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBLinx.csproj.CoreCompileInputs.cache
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBSync.exe
+C:\QB\QBSync\QBSync (Premium Distribution)\QBSync\obj\Debug\QBSync.pdb
+D:\Projects\AutoVault\QBSync\bin\Debug\QBSync.exe.config
+D:\Projects\AutoVault\QBSync\bin\Debug\QBSync.exe
+D:\Projects\AutoVault\QBSync\bin\Debug\QBSync.pdb
+D:\Projects\AutoVault\QBSync\obj\Debug\QBLinx.csprojAssemblyReference.cache
+D:\Projects\AutoVault\QBSync\obj\Debug\QBSync.frmSettings.resources
+D:\Projects\AutoVault\QBSync\obj\Debug\QBSync.frmApplicationLog.resources
+D:\Projects\AutoVault\QBSync\obj\Debug\QBSync.frmMain.resources
+D:\Projects\AutoVault\QBSync\obj\Debug\QBSync.frmSplashScreen.resources
+D:\Projects\AutoVault\QBSync\obj\Debug\QBSync.frmSyncDate.resources
+D:\Projects\AutoVault\QBSync\obj\Debug\QBSync.Properties.Resources.resources
+D:\Projects\AutoVault\QBSync\obj\Debug\QBLinx.csproj.GenerateResource.cache
+D:\Projects\AutoVault\QBSync\obj\Debug\QBLinx.csproj.CoreCompileInputs.cache
+D:\Projects\AutoVault\QBSync\obj\Debug\QBSync.exe
+D:\Projects\AutoVault\QBSync\obj\Debug\QBSync.pdb

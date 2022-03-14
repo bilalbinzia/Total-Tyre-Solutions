@@ -1,0 +1,82 @@
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MySql.Data.dll
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\GetMySQLData.csprojResolveAssemblyReference.cache
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\GetMySQLData.Form1.resources
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\GetMySQLData.Form2.resources
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\GetMySQLData.csproj.GenerateResource.Cache
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ESS\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe.config
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.pdb
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\bin\Debug\MySql.Data.dll
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form1.resources
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form2.resources
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form3.resources
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.exe
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.pdb
+C:\Users\AzharIqbal\Desktop\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csprojResolveAssemblyReference.cache
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe.config
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.pdb
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\MySql.Data.dll
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form1.resources
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form2.resources
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form3.resources
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Properties.Resources.resources
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csproj.GenerateResource.Cache
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.exe
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.pdb
+C:\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe.config
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.exe
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.pdb
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csprojResolveAssemblyReference.cache
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form1.resources
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form2.resources
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form3.resources
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.pdb
+C:\Users\AzharIqbal\Desktop\GetMySQLData\New GetMySQLData\GetMySQLData\GetMySQLData\bin\Debug\MySql.Data.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe.config
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\MySql.Data.dll
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form1.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form2.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form3.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Properties.Resources.resources
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csproj.GenerateResource.Cache
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.exe
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.pdb
+C:\Users\AzharIqbal\Desktop\from USB (AutoVault and TAAMS)\AutoVaultESS (08-01-2020)\AutoVaultEss\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csprojResolveAssemblyReference.cache
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe.config
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.pdb
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\bin\Debug\MySql.Data.dll
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form1.resources
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form2.resources
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form3.resources
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Properties.Resources.resources
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csproj.GenerateResource.Cache
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.exe
+C:\Users\ESS\Desktop\New GetMYSQLData\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.pdb
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe.config
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.exe
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\GetMySQLData.pdb
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\bin\Debug\MySql.Data.dll
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form1.resources
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form2.resources
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Form3.resources
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.Properties.Resources.resources
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csproj.GenerateResource.Cache
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.exe
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.pdb
+C:\Users\ESS\Desktop\ess backup 08-07-2020\AutoVaultEss\GetMySQLData\GetMySQLData\obj\Debug\GetMySQLData.csprojResolveAssemblyReference.cache
